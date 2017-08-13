@@ -1,4 +1,4 @@
-<?php
+<?php349770214:AAGjHY0IPI63T1Lm15FD_RH1YMLtIpZb-nQ
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
